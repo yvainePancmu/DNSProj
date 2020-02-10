@@ -1,0 +1,8 @@
+gcc -g Server3j.c -o Server3j
+gcc -g Server3js.c -o Server3js
+gcc -g Server3jz.c -o Server3jz
+gcc -g ServerRoot.c -o ServerRoot
+gcc -g Servertest3.c -o Servertest3
+
+gcc -g TcpClient2.c -o TcpClient2
+gcc -g TcpServer3.c -o TcpServer3
